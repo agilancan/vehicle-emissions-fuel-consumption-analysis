@@ -9,7 +9,7 @@ Built to explore how vehicle specifications and fuel efficiency correlate with e
 ## Live Dashboard
 
 🔗 **Tableau Public Dashboard:**  
-[https://public.tableau.com/views/VehicleEmissionsFuelConsumptionAnalysisCanada20152019/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+https://public.tableau.com/views/VehicleEmissionsFuelConsumptionAnalysisCanada20152019/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
