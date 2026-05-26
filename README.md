@@ -109,15 +109,15 @@ City driving also showed higher emissions patterns compared to highway driving.
 
 ### Dashboard Overview
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](assets/P1_1.png)
 
 ### Correlation Analysis
 
-![Correlation Analysis](images/correlation-analysis.png)
+![Correlation Analysis](assets/P1_2.png)
 
 ### Manufacturer & Fuel Type Analysis
 
-![Manufacturer Analysis](images/manufacturer-analysis.png)
+![Manufacturer Analysis](assets/P1_3.png)
 
 ---
 
